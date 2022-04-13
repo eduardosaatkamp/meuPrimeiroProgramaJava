@@ -1,0 +1,2 @@
+# meuPrimeiroProgramaJava
+Programa de baixa complexidade realizado com o objetivo aprender como criar um programa Java, adicionar comentários.  seu funcionamento, compilação e sobre o uso de suas  IDEs (IntelliJ, Eclipse, dentre outras). Além de suas características, como ser fortemente tipificada, exemplificado no uso do comando println e strings. Foi elaborado esse programa  a partir de um curso como um exercício prático. 
